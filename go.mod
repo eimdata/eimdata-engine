@@ -1,4 +1,4 @@
-module github.com/eimdata/go-eimdata-engine
+module github.com/eimdata/eimpkg-go
 
 go 1.22.1
 
